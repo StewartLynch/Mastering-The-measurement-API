@@ -7,7 +7,7 @@
  */
 import Foundation
 
-code(for: "Length - 5 Kilimetres") {
+code(for: "Length - 5 Kilometres") {
     
 }
 
